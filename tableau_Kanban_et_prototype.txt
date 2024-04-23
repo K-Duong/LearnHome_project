@@ -1,0 +1,3 @@
+Dans le cadre du projet LearnHome, vous pouvez consulter le tableau Kanban via : https://trello.com/invite/b/J4gcKCkH/ATTIcb31397e6bb6cc25f2949b96c402b91b11C24228/kanban-learnhome
+
+Vous pouvez également consulter le prototype de la maquette du projet via : https://www.figma.com/file/fJ2R5MxGpSlj5AfULZnvix/LearnHome4?type=design&node-id=0%3A1&mode=design&t=ynfMglf4zaXSegTs-1
